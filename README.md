@@ -1,7 +1,7 @@
 
 <!-- GitHub Profile README for Anjali Pal -->
 
-<h1 align="center">Hi there, I'm Anjali Pal 👋</h1>
+<h1 align="center">Hi , I'm Anjali Pal 👋</h1>
 
 ---
 
